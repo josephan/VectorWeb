@@ -1,0 +1,18 @@
+{
+  "name": "VectorWeb",
+  "version": "0.0.0",
+  "description": "An open source web based vector graphics illustrator.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josephan/VectorWeb"
+  },
+  "author": "Joseph An",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0",
+    "typescript": "^3.2.4"
+  }
+}
